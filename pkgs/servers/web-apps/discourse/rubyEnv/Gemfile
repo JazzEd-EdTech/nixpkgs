@@ -22,7 +22,7 @@ else
   gem 'actionpack', '6.1.3.2'
   gem 'actionview', '6.1.3.2'
   gem 'activemodel', '6.1.3.2'
-  gem 'activerecord', '6.1.3.2'
+  gem 'activerecord', '6.1.6.1'
   gem 'activesupport', '6.1.3.2'
   gem 'railties', '6.1.3.2'
   gem 'sprockets-rails'
