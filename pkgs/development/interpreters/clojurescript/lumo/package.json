@@ -30,7 +30,7 @@
     "jszip": "2.x",
     "mkdirp": "^1.0.3",
     "ncp": "^2.0.0",
-    "node-fetch": "^2.2.1",
+    "node-fetch": "^3.2.10",
     "paredit.js": "0.3.6",
     "posix-getopt": "github:anmonteiro/node-getopt#master",
     "prettier": "1.19.1",
