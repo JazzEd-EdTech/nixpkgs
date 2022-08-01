@@ -16,7 +16,7 @@
     "matrix-js-sdk": "^0.7.13",
     "mime-types": "^2.1.14",
     "mustache": "^2.3.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^3.2.10",
     "node-localstorage": "^1.3.0",
     "sqlite3": "^4.0.7",
     "olm": "https://packages.matrix.org/npm/olm/olm-2.3.0.tgz"
