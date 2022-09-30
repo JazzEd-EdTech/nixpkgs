@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "marked": "^0.6.2",
-    "matrix-js-sdk": "^0.7.13",
+    "matrix-js-sdk": "^19.7.0",
     "mime-types": "^2.1.14",
     "mustache": "^2.3.0",
     "node-fetch": "^1.6.3",
