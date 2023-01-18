@@ -60,7 +60,7 @@ GEM
     octicons (12.1.0)
       nokogiri (>= 1.6.3.1)
     racc (1.5.2)
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-protection (2.1.0)
       rack
     rb-fsevent (0.10.4)
